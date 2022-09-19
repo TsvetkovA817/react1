@@ -1,0 +1,9 @@
+.chats {
+  text-align: center;
+  width: 100%;
+}
+
+.chats_main {
+  display: flex;
+  justify-content: space-around;
+}
