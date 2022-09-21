@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #d49af7;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(238, 248, 99);
+  margin-bottom: 50px;
+}
+
+.main {
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.App-footer {
+  background-color: #d49af7;
+  min-height: 8vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* font-size: calc(10px + 2vmin); */
+  color: rgb(238, 248, 99);
+  margin-top: 50px;
+}
