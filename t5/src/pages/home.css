@@ -1,0 +1,12 @@
+.count_block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.count_block h3 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
