@@ -1,0 +1,9 @@
+.register__form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.chats_control {
+  display: flex;
+}
