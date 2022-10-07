@@ -1,0 +1,21 @@
+export const ADD_MESSAGE = 'ADD_MESSAGE';
+export const DEL_MESSAGE = 'DEL_MESSAGE';
+export const DEL_MESSAGE_CHAT = 'DEL_MESSAGE_CHAT';
+export const DEL_CHAT = 'DEL_CHAT';
+export const ADD_CHAT = 'ADD_CHAT';
+export const REN_CHAT = 'REN_CHAT';
+export const GET_POSTS_FROM_SERVER = 'GET_POSTS_FROM_SERVER';
+export const GET_POST = 'GET_POST';
+
+export const REGISTER_LOADING = 'REGISTER_LOADING';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_ERROR = 'REGISTER_ERROR';
+
+export const LOGIN_LOADING = 'LOGIN_LOADING';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+
+export const LOGOUT_LOADING = 'LOGOUT_LOADING';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const LOGOUT_ERROR = 'LOGOUT_ERROR';
+
